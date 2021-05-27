@@ -1,0 +1,151 @@
+p{
+	color:brown;
+	font-size:15px;	
+}
+
+
+
+.listitem{
+	color:black;
+	font-size:30px;
+}
+
+
+.big{
+	font-size:30px;
+	color:black;
+}
+
+#background {
+background-color:white;
+}
+
+
+
+
+#banner{
+height:55px;
+width:99%;
+border:5px solid black;
+border-radius: 10px;
+background-color:#000066;
+text-align: center;
+color:white;
+font-size:3em;
+margin-bottom:50px;
+}
+
+.list {
+width: 40%;
+border-radius: 10px;
+border: 5px dashed darkgreen
+}
+
+
+
+#footer{
+height:55px;
+width:99%;
+border:5px solid black;
+border-radius: 10px;
+background-color:#000066;
+text-align: center;
+color:white;
+font-size:3em;
+
+}
+
+.wrap-text{
+color:#111345;
+
+}
+
+
+
+#one {
+	height: 150px;
+	width: 150px;
+	background-color: blue;
+	display: inline-block;
+	position: relativetop:750px;
+	z-index:2;
+}
+
+#two {
+	height: 150px;
+	width: 150px;
+	background-color: pink;
+	display: inline-block;
+	position:absolute;
+	z-index:1;
+}
+
+#three {
+	height: 150px;
+	width: 150px;
+	background-color: brown;
+	display: inline-block;
+	position:fixed;
+	leftS:25%;
+}
+
+
+
+
+#background-h{
+ height:2048px;
+}
+ 
+.navitem{
+list-style-type: none;
+display: inline;
+margin-right:.3em;
+padding:2px 5px;
+
+
+
+
+}
+
+
+#navmenu{
+	text-align: center;
+	background-color:#006666;
+    color:white;
+}
+
+
+a:link{
+	color:#000066;
+}
+
+a:visited{
+	color:#660066;
+}
+
+
+a:hover{
+color:#006666;
+
+}
+
+a:active{
+	color:#009933;
+}
+
+
+ 
+.troutlist {
+width: 40%;
+border-radius: 10px;
+border: 5px dashed darkgreen
+}  
+
+#fish {
+width: 50%;
+border-radius: 10px;
+border:
+10px solid ;
+border-color: #006666;
+
+}
